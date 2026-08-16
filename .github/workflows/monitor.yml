@@ -33,7 +33,12 @@ jobs:
 
       - name: Save monitoring state
         run: |
-          if git diff --quiet -- state.json; then
+          if [ ! -f state.json ]; then
+            echo "state.json was not created."
+            exit 1
+          fi
+
+          if git diff --quiet -- state.json && git ls-files --error-unmatch state.json >/dev/null 2>&1; then
             echo "No state changes."
             exit 0
           fi
