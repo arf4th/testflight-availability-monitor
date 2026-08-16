@@ -33,12 +33,8 @@ jobs:
 
       - name: Save monitoring state
         run: |
-          if [ ! -f state.json ]; then
-            echo "state.json was not created."
-            exit 1
-          fi
-
-          if git diff --quiet -- state.json && git ls-files --error-unmatch state.json >/dev/null 2>&1; then
+          if git diff --quiet -- state.json telegram_state.json && \
+             git ls-files --error-unmatch state.json telegram_state.json >/dev/null 2>&1; then
             echo "No state changes."
             exit 0
           fi
@@ -46,6 +42,6 @@ jobs:
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
 
-          git add state.json
+          git add state.json telegram_state.json
           git commit -m "Update TestFlight monitoring state"
           git push
