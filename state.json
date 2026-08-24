@@ -155,6 +155,10 @@
     "name": "Microsoft Edge",
     "url": "https://testflight.apple.com/join/JkU2rh21"
   },
+  "a9Ef0N3g": {
+    "name": "Microsoft PowerPoint",
+    "url": "https://testflight.apple.com/join/a9Ef0N3g"
+  },
   "JSq3UkAz": {
     "name": "Microsoft To-Do",
     "url": "https://testflight.apple.com/join/JSq3UkAz"
@@ -243,13 +247,13 @@
     "name": "Spark Mail - Email by Readdle",
     "url": "https://testflight.apple.com/join/O2wj7i0x"
   },
-  "7lt2tesn": {
-    "name": "Spotify: Music and Podcasts",
-    "url": "https://testflight.apple.com/join/7lt2tesn"
-  },
   "OqYBblCA": {
     "name": "Streaks Workout",
     "url": "https://testflight.apple.com/join/OqYBblCA"
+  },
+  "eP0BTwVi": {
+    "name": "Television Time",
+    "url": "https://testflight.apple.com/join/eP0BTwVi"
   },
   "gfiSREAr": {
     "name": "The New York Times",
@@ -387,6 +391,10 @@
     "name": "Readwise Reader beta",
     "url": "https://testflight.apple.com/join/NSeQo22d"
   },
+  "KNyadcIZ": {
+    "name": "Microsoft Loop beta",
+    "url": "https://testflight.apple.com/join/KNyadcIZ"
+  },
   "8oUnDzMQ": {
     "name": "Xbox Family Settings beta",
     "url": "https://testflight.apple.com/join/8oUnDzMQ"
@@ -482,6 +490,10 @@
   "lCeTuDKM": {
     "name": "Element Messenger",
     "url": "https://testflight.apple.com/join/lCeTuDKM"
+  },
+  "jOahtut6": {
+    "name": "MSN (Start)",
+    "url": "https://testflight.apple.com/join/jOahtut6"
   },
   "bqo4smK7": {
     "name": "Me@Walmart",
@@ -591,10 +603,6 @@
     "name": "酷我音乐",
     "url": "https://testflight.apple.com/join/XWYSZMaS"
   },
-  "iSTXkF4K": {
-    "name": "微信输入法",
-    "url": "https://testflight.apple.com/join/iSTXkF4K"
-  },
   "dTUO1uyt": {
     "name": "番茄小说 - 热门短剧全本小说电子书阅读器",
     "url": "https://testflight.apple.com/join/dTUO1uyt"
@@ -671,6 +679,10 @@
     "name": "Thunderbird: Free Your Inbox",
     "url": "https://testflight.apple.com/join/ER3hRBSz"
   },
+  "rEzEtRf2": {
+    "name": "香肠派对(先行服)",
+    "url": "https://testflight.apple.com/join/rEzEtRf2"
+  },
   "gFZnVU2t": {
     "name": "钱迹记账-无广告自动记账软件 &amp; 预算 &amp; 资产管理",
     "url": "https://testflight.apple.com/join/gFZnVU2t"
@@ -722,10 +734,6 @@
   "8XHKpTmj": {
     "name": "VPN BOX",
     "url": "https://testflight.apple.com/join/8XHKpTmj"
-  },
-  "406CXlN8": {
-    "name": "微信输入法",
-    "url": "https://testflight.apple.com/join/406CXlN8"
   },
   "m2kxP5cw": {
     "name": "Notion AI",
@@ -795,6 +803,14 @@
     "name": "腾讯自选股-在线炒股票证券交易",
     "url": "https://testflight.apple.com/join/7tPfWALw"
   },
+  "i6TcrR2L": {
+    "name": "腾讯地图-AI路线规划,导航公交打车地铁出行",
+    "url": "https://testflight.apple.com/join/i6TcrR2L"
+  },
+  "N1MkckuA": {
+    "name": "腾讯地图-AI路线规划,导航公交打车地铁出行",
+    "url": "https://testflight.apple.com/join/N1MkckuA"
+  },
   "nRiAaxNf": {
     "name": "翼支付",
     "url": "https://testflight.apple.com/join/nRiAaxNf"
@@ -850,6 +866,10 @@
   "K28iQVlZ": {
     "name": "TikTok -Global Video Community",
     "url": "https://testflight.apple.com/join/K28iQVlZ"
+  },
+  "TH2TrW13": {
+    "name": "TikTok -Global Video Community",
+    "url": "https://testflight.apple.com/join/TH2TrW13"
   },
   "SqNPfdxq": {
     "name": "Swiftfin",
@@ -1014,5 +1034,29 @@
   "ZsFnfJeX": {
     "name": "Rukn ERM Risk Register",
     "url": "https://testflight.apple.com/join/ZsFnfJeX"
+  },
+  "cpPS8YnX": {
+    "name": "La Terminal: Mosh &amp; SSH Client",
+    "url": "https://testflight.apple.com/join/cpPS8YnX"
+  },
+  "6B8r9tuU": {
+    "name": "Offline Music Player:Offly",
+    "url": "https://testflight.apple.com/join/6B8r9tuU"
+  },
+  "hdUaxTTc": {
+    "name": "Sorven: Home Asset Inventory",
+    "url": "https://testflight.apple.com/join/hdUaxTTc"
+  },
+  "Pq142uZH": {
+    "name": "GoalReminder",
+    "url": "https://testflight.apple.com/join/Pq142uZH"
+  },
+  "QBJGPYae": {
+    "name": "Gintone",
+    "url": "https://testflight.apple.com/join/QBJGPYae"
+  },
+  "bTR3EvVd": {
+    "name": "Cards Oracle",
+    "url": "https://testflight.apple.com/join/bTR3EvVd"
   }
 }
