@@ -87,6 +87,10 @@
     "name": "FRITZ!App Smart Home",
     "url": "https://testflight.apple.com/join/kzVJhIg1"
   },
+  "vbfCKamq": {
+    "name": "FRITZ!App WLAN",
+    "url": "https://testflight.apple.com/join/vbfCKamq"
+  },
   "bZIZeB4N": {
     "name": "Fugl",
     "url": "https://testflight.apple.com/join/bZIZeB4N"
@@ -191,6 +195,10 @@
     "name": "Opera Touch web browser",
     "url": "https://testflight.apple.com/join/ASrCFVHB"
   },
+  "Oktj0iKv": {
+    "name": "ownCloud",
+    "url": "https://testflight.apple.com/join/Oktj0iKv"
+  },
   "fMeg6C4A": {
     "name": "Parcel - Delivery Tracking",
     "url": "https://testflight.apple.com/join/fMeg6C4A"
@@ -275,6 +283,10 @@
     "name": "Unicode Keyboard",
     "url": "https://testflight.apple.com/join/YKH3kGpt"
   },
+  "ZdC5U0fR": {
+    "name": "VFeed",
+    "url": "https://testflight.apple.com/join/ZdC5U0fR"
+  },
   "Z0AU0KXC": {
     "name": "Wikipedia",
     "url": "https://testflight.apple.com/join/Z0AU0KXC"
@@ -294,6 +306,10 @@
   "H82FVVt6": {
     "name": "CardioBot - Heart Rate Monitor",
     "url": "https://testflight.apple.com/join/H82FVVt6"
+  },
+  "1SyedSId": {
+    "name": "Spotify - Music and Podcasts",
+    "url": "https://testflight.apple.com/join/1SyedSId"
   },
   "KwboYTNt": {
     "name": "S1 Mufu",
@@ -366,6 +382,10 @@
   "gRhGuXzI": {
     "name": "Graphite: Photo to Sketch App beta",
     "url": "https://testflight.apple.com/join/gRhGuXzI"
+  },
+  "fzDLkIVK": {
+    "name": "1Password - Password Manager beta",
+    "url": "https://testflight.apple.com/join/fzDLkIVK"
   },
   "8uVQrfHu": {
     "name": "AppRaven 2.0",
@@ -475,6 +495,10 @@
     "name": "Element Messenger",
     "url": "https://testflight.apple.com/join/lCeTuDKM"
   },
+  "jOahtut6": {
+    "name": "MSN (Start)",
+    "url": "https://testflight.apple.com/join/jOahtut6"
+  },
   "bqo4smK7": {
     "name": "Me@Walmart",
     "url": "https://testflight.apple.com/join/bqo4smK7"
@@ -506,6 +530,10 @@
   "5hmQk6ba": {
     "name": "Star Wander - AR Night Sky Map",
     "url": "https://testflight.apple.com/join/5hmQk6ba"
+  },
+  "qC1ZnReJ": {
+    "name": "Minecraft Preview",
+    "url": "https://testflight.apple.com/join/qC1ZnReJ"
   },
   "RD9jGH9S": {
     "name": "Cell to Singularity",
@@ -634,6 +662,10 @@
   "k4JX7jYx": {
     "name": "Drippi: Liquid Timer",
     "url": "https://testflight.apple.com/join/k4JX7jYx"
+  },
+  "TgcHSGwb": {
+    "name": "MiniBili",
+    "url": "https://testflight.apple.com/join/TgcHSGwb"
   },
   "2xC6J4zN": {
     "name": "TP-Link Deco",
@@ -1051,10 +1083,6 @@
     "name": "HStudio",
     "url": "https://testflight.apple.com/join/Xh5TCUJ4"
   },
-  "S2gEF65P": {
-    "name": "Inventury",
-    "url": "https://testflight.apple.com/join/S2gEF65P"
-  },
   "RXCX9hyK": {
     "name": "Grok Usage",
     "url": "https://testflight.apple.com/join/RXCX9hyK"
@@ -1186,5 +1214,9 @@
   "Ku4JtTEg": {
     "name": "Mobile SSH iOS",
     "url": "https://testflight.apple.com/join/Ku4JtTEg"
+  },
+  "VgpEmwmD": {
+    "name": "Azalea Pets",
+    "url": "https://testflight.apple.com/join/VgpEmwmD"
   }
 }
