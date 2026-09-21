@@ -111,10 +111,6 @@
     "name": "Google Chrome",
     "url": "https://testflight.apple.com/join/LPQmtkUs"
   },
-  "v29eXz9t": {
-    "name": "Grocery-Smart Grocery List",
-    "url": "https://testflight.apple.com/join/v29eXz9t"
-  },
   "6CcTotfX": {
     "name": "GroupMe",
     "url": "https://testflight.apple.com/join/6CcTotfX"
@@ -218,6 +214,10 @@
   "Kts3HqEj": {
     "name": "Pyto-Python IDE",
     "url": "https://testflight.apple.com/join/Kts3HqEj"
+  },
+  "mwhcPqxJ": {
+    "name": "Quizlet",
+    "url": "https://testflight.apple.com/join/mwhcPqxJ"
   },
   "OZ1B4sTS": {
     "name": "RainViewer: Live Weather Radar",
@@ -403,10 +403,6 @@
     "name": "CharMap",
     "url": "https://testflight.apple.com/join/TL68k0Sp"
   },
-  "9JaSzwSN": {
-    "name": "腾讯视频HD",
-    "url": "https://testflight.apple.com/join/9JaSzwSN"
-  },
   "mFlnyMv3": {
     "name": "UTM Remote Virtual Machines",
     "url": "https://testflight.apple.com/join/mFlnyMv3"
@@ -535,6 +531,10 @@
     "name": "Maxthon Cloud Web Browser",
     "url": "https://testflight.apple.com/join/ONuHkBRv"
   },
+  "5MWjLpYl": {
+    "name": "微信读书",
+    "url": "https://testflight.apple.com/join/5MWjLpYl"
+  },
   "vWQPDFQU": {
     "name": "滴答清单 TickTick",
     "url": "https://testflight.apple.com/join/vWQPDFQU"
@@ -546,6 +546,10 @@
   "grxohdR3": {
     "name": "事线 - 串事成线",
     "url": "https://testflight.apple.com/join/grxohdR3"
+  },
+  "2LslNUOW": {
+    "name": "Weibo intl. beta",
+    "url": "https://testflight.apple.com/join/2LslNUOW"
   },
   "R5FNGUl3": {
     "name": "QQ beta",
@@ -911,6 +915,10 @@
     "name": "Slips - Quick Notes",
     "url": "https://testflight.apple.com/join/9QGyahYr"
   },
+  "tLcYLZJV": {
+    "name": "Tailscale",
+    "url": "https://testflight.apple.com/join/tLcYLZJV"
+  },
   "vrehhvsY": {
     "name": "WatchAmp for Plex",
     "url": "https://testflight.apple.com/join/vrehhvsY"
@@ -1022,10 +1030,6 @@
   "cpPS8YnX": {
     "name": "La Terminal: Mosh &amp; SSH Client",
     "url": "https://testflight.apple.com/join/cpPS8YnX"
-  },
-  "6B8r9tuU": {
-    "name": "Offline Music Player:Offly",
-    "url": "https://testflight.apple.com/join/6B8r9tuU"
   },
   "hdUaxTTc": {
     "name": "Sorven: Home Asset Inventory",
