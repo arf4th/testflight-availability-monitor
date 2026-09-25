@@ -7,10 +7,6 @@
     "name": "Salam",
     "url": "https://testflight.apple.com/join/IjXpQtAo"
   },
-  "KjmVWFnT": {
-    "name": "1Blocker",
-    "url": "https://testflight.apple.com/join/KjmVWFnT"
-  },
   "fZRiD1zt": {
     "name": "AdGuard VPN",
     "url": "https://testflight.apple.com/join/fZRiD1zt"
@@ -31,10 +27,6 @@
     "name": "Buffer: Social Media Manager",
     "url": "https://testflight.apple.com/join/DOpMcusn"
   },
-  "E7AnyPlA": {
-    "name": "Cheatsheet",
-    "url": "https://testflight.apple.com/join/E7AnyPlA"
-  },
   "TEnBWi68": {
     "name": "Collabora Office",
     "url": "https://testflight.apple.com/join/TEnBWi68"
@@ -42,6 +34,10 @@
   "FvufwHrV": {
     "name": "Debit & Credit",
     "url": "https://testflight.apple.com/join/FvufwHrV"
+  },
+  "gdE4pRzI": {
+    "name": "Discord",
+    "url": "https://testflight.apple.com/join/gdE4pRzI"
   },
   "EOPEVoDA": {
     "name": "Documents by Readdle",
@@ -167,6 +163,14 @@
     "name": "Microsoft Edge",
     "url": "https://testflight.apple.com/join/JkU2rh21"
   },
+  "eHAKJBtM": {
+    "name": "Microsoft Office",
+    "url": "https://testflight.apple.com/join/eHAKJBtM"
+  },
+  "LtgPLzrQ": {
+    "name": "Microsoft OneDrive",
+    "url": "https://testflight.apple.com/join/LtgPLzrQ"
+  },
   "JSq3UkAz": {
     "name": "Microsoft To-Do",
     "url": "https://testflight.apple.com/join/JSq3UkAz"
@@ -222,10 +226,6 @@
   "Kts3HqEj": {
     "name": "Pyto-Python IDE",
     "url": "https://testflight.apple.com/join/Kts3HqEj"
-  },
-  "mwhcPqxJ": {
-    "name": "Quizlet",
-    "url": "https://testflight.apple.com/join/mwhcPqxJ"
   },
   "OZ1B4sTS": {
     "name": "RainViewer: Live Weather Radar",
@@ -306,6 +306,10 @@
   "myFEz6DW": {
     "name": "PushUp Workout Daily at Home",
     "url": "https://testflight.apple.com/join/myFEz6DW"
+  },
+  "1SyedSId": {
+    "name": "Spotify - Music and Podcasts",
+    "url": "https://testflight.apple.com/join/1SyedSId"
   },
   "KwboYTNt": {
     "name": "S1 Mufu",
@@ -398,6 +402,10 @@
   "KNyadcIZ": {
     "name": "Microsoft Loop beta",
     "url": "https://testflight.apple.com/join/KNyadcIZ"
+  },
+  "8oUnDzMQ": {
+    "name": "Xbox Family Settings beta",
+    "url": "https://testflight.apple.com/join/8oUnDzMQ"
   },
   "QvKyRJ8x": {
     "name": "Meditation Timer Zenzitizer",
@@ -695,10 +703,6 @@
     "name": "Downcast",
     "url": "https://testflight.apple.com/join/81Geh1jh"
   },
-  "c6NtF2xP": {
-    "name": "Moon FM - The Podcasts App",
-    "url": "https://testflight.apple.com/join/c6NtF2xP"
-  },
   "1AlPbnLZ": {
     "name": "Home Assistant",
     "url": "https://testflight.apple.com/join/1AlPbnLZ"
@@ -722,10 +726,6 @@
   "ReeDUsGp": {
     "name": "RepLytics",
     "url": "https://testflight.apple.com/join/ReeDUsGp"
-  },
-  "URq96MVP": {
-    "name": "EpisodePal - TV Show Tracker",
-    "url": "https://testflight.apple.com/join/URq96MVP"
   },
   "8XHKpTmj": {
     "name": "VPN BOX",
@@ -1079,6 +1079,10 @@
     "name": "HStudio",
     "url": "https://testflight.apple.com/join/Xh5TCUJ4"
   },
+  "S2gEF65P": {
+    "name": "Inventury",
+    "url": "https://testflight.apple.com/join/S2gEF65P"
+  },
   "RXCX9hyK": {
     "name": "Grok Usage",
     "url": "https://testflight.apple.com/join/RXCX9hyK"
@@ -1246,5 +1250,9 @@
   "MYn1gVjU": {
     "name": "VEIL Privacy Suite",
     "url": "https://testflight.apple.com/join/MYn1gVjU"
+  },
+  "Y12pVy6t": {
+    "name": "Olomir",
+    "url": "https://testflight.apple.com/join/Y12pVy6t"
   }
 }
