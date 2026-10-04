@@ -63,6 +63,10 @@
     "name": "Facebook Messenger",
     "url": "https://testflight.apple.com/join/njVWbUm0"
   },
+  "xsSlT2sX": {
+    "name": "FE File Explorer Pro",
+    "url": "https://testflight.apple.com/join/xsSlT2sX"
+  },
   "03ER1aUo": {
     "name": "Feedly",
     "url": "https://testflight.apple.com/join/03ER1aUo"
@@ -163,14 +167,6 @@
     "name": "Microsoft Edge",
     "url": "https://testflight.apple.com/join/JkU2rh21"
   },
-  "a9Ef0N3g": {
-    "name": "Microsoft PowerPoint",
-    "url": "https://testflight.apple.com/join/a9Ef0N3g"
-  },
-  "yhIhAvjp": {
-    "name": "Microsoft SwiftKey Keyboard",
-    "url": "https://testflight.apple.com/join/yhIhAvjp"
-  },
   "JSq3UkAz": {
     "name": "Microsoft To-Do",
     "url": "https://testflight.apple.com/join/JSq3UkAz"
@@ -218,6 +214,10 @@
   "6IMUtZ8n": {
     "name": "PDF Viewer Pro by PSPDFKit",
     "url": "https://testflight.apple.com/join/6IMUtZ8n"
+  },
+  "MY6JTzix": {
+    "name": "Plex",
+    "url": "https://testflight.apple.com/join/MY6JTzix"
   },
   "vkwfdWM0": {
     "name": "Pushover Notifications",
@@ -391,6 +391,10 @@
     "name": "Graphite: Photo to Sketch App beta",
     "url": "https://testflight.apple.com/join/gRhGuXzI"
   },
+  "fzDLkIVK": {
+    "name": "1Password - Password Manager beta",
+    "url": "https://testflight.apple.com/join/fzDLkIVK"
+  },
   "8uVQrfHu": {
     "name": "AppRaven 2.0",
     "url": "https://testflight.apple.com/join/8uVQrfHu"
@@ -402,6 +406,10 @@
   "NSeQo22d": {
     "name": "Readwise Reader beta",
     "url": "https://testflight.apple.com/join/NSeQo22d"
+  },
+  "KNyadcIZ": {
+    "name": "Microsoft Loop beta",
+    "url": "https://testflight.apple.com/join/KNyadcIZ"
   },
   "QvKyRJ8x": {
     "name": "Meditation Timer Zenzitizer",
@@ -495,10 +503,6 @@
     "name": "Element Messenger",
     "url": "https://testflight.apple.com/join/lCeTuDKM"
   },
-  "jOahtut6": {
-    "name": "MSN (Start)",
-    "url": "https://testflight.apple.com/join/jOahtut6"
-  },
   "bqo4smK7": {
     "name": "Me@Walmart",
     "url": "https://testflight.apple.com/join/bqo4smK7"
@@ -527,10 +531,6 @@
     "name": "Windows App Mobile",
     "url": "https://testflight.apple.com/join/vkLIflUJ"
   },
-  "3lIiz1eZ": {
-    "name": "Microsoft Excel",
-    "url": "https://testflight.apple.com/join/3lIiz1eZ"
-  },
   "uDgoqfGS": {
     "name": "Microsoft OneNote",
     "url": "https://testflight.apple.com/join/uDgoqfGS"
@@ -550,10 +550,6 @@
   "ONuHkBRv": {
     "name": "Maxthon Cloud Web Browser",
     "url": "https://testflight.apple.com/join/ONuHkBRv"
-  },
-  "5MWjLpYl": {
-    "name": "微信读书",
-    "url": "https://testflight.apple.com/join/5MWjLpYl"
   },
   "vWQPDFQU": {
     "name": "滴答清单 TickTick",
@@ -879,10 +875,6 @@
     "name": "TikTok -Global Video Community",
     "url": "https://testflight.apple.com/join/K28iQVlZ"
   },
-  "TH2TrW13": {
-    "name": "TikTok -Global Video Community",
-    "url": "https://testflight.apple.com/join/TH2TrW13"
-  },
   "SqNPfdxq": {
     "name": "Swiftfin",
     "url": "https://testflight.apple.com/join/SqNPfdxq"
@@ -1018,6 +1010,10 @@
   "HSptQN3h": {
     "name": "Meow - Smart VPN",
     "url": "https://testflight.apple.com/join/HSptQN3h"
+  },
+  "YjeGMQBA": {
+    "name": "Orca IDE",
+    "url": "https://testflight.apple.com/join/YjeGMQBA"
   },
   "TnB7zcye": {
     "name": "FlipTalk - Reverse Your Speech",
