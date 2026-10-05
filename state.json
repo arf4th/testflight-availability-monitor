@@ -63,10 +63,6 @@
     "name": "Facebook Messenger",
     "url": "https://testflight.apple.com/join/njVWbUm0"
   },
-  "xsSlT2sX": {
-    "name": "FE File Explorer Pro",
-    "url": "https://testflight.apple.com/join/xsSlT2sX"
-  },
   "03ER1aUo": {
     "name": "Feedly",
     "url": "https://testflight.apple.com/join/03ER1aUo"
@@ -167,6 +163,10 @@
     "name": "Microsoft Edge",
     "url": "https://testflight.apple.com/join/JkU2rh21"
   },
+  "eHAKJBtM": {
+    "name": "Microsoft Office",
+    "url": "https://testflight.apple.com/join/eHAKJBtM"
+  },
   "JSq3UkAz": {
     "name": "Microsoft To-Do",
     "url": "https://testflight.apple.com/join/JSq3UkAz"
@@ -214,10 +214,6 @@
   "6IMUtZ8n": {
     "name": "PDF Viewer Pro by PSPDFKit",
     "url": "https://testflight.apple.com/join/6IMUtZ8n"
-  },
-  "MY6JTzix": {
-    "name": "Plex",
-    "url": "https://testflight.apple.com/join/MY6JTzix"
   },
   "vkwfdWM0": {
     "name": "Pushover Notifications",
@@ -270,10 +266,6 @@
   "OqYBblCA": {
     "name": "Streaks Workout",
     "url": "https://testflight.apple.com/join/OqYBblCA"
-  },
-  "eP0BTwVi": {
-    "name": "Television Time",
-    "url": "https://testflight.apple.com/join/eP0BTwVi"
   },
   "MnuClabg": {
     "name": "Termius – SSH client",
@@ -347,10 +339,6 @@
     "name": "Sleep Cycle - Sleep Tracker beta",
     "url": "https://testflight.apple.com/join/tCeANbZi"
   },
-  "gPYINGCJ": {
-    "name": "Keka",
-    "url": "https://testflight.apple.com/join/gPYINGCJ"
-  },
   "FT9n1ncG": {
     "name": "SweeLOL",
     "url": "https://testflight.apple.com/join/FT9n1ncG"
@@ -391,10 +379,6 @@
     "name": "Graphite: Photo to Sketch App beta",
     "url": "https://testflight.apple.com/join/gRhGuXzI"
   },
-  "fzDLkIVK": {
-    "name": "1Password - Password Manager beta",
-    "url": "https://testflight.apple.com/join/fzDLkIVK"
-  },
   "8uVQrfHu": {
     "name": "AppRaven 2.0",
     "url": "https://testflight.apple.com/join/8uVQrfHu"
@@ -406,10 +390,6 @@
   "NSeQo22d": {
     "name": "Readwise Reader beta",
     "url": "https://testflight.apple.com/join/NSeQo22d"
-  },
-  "KNyadcIZ": {
-    "name": "Microsoft Loop beta",
-    "url": "https://testflight.apple.com/join/KNyadcIZ"
   },
   "QvKyRJ8x": {
     "name": "Meditation Timer Zenzitizer",
@@ -670,6 +650,10 @@
   "k4JX7jYx": {
     "name": "Drippi: Liquid Timer",
     "url": "https://testflight.apple.com/join/k4JX7jYx"
+  },
+  "TgcHSGwb": {
+    "name": "MiniBili",
+    "url": "https://testflight.apple.com/join/TgcHSGwb"
   },
   "2xC6J4zN": {
     "name": "TP-Link Deco",
@@ -1010,10 +994,6 @@
   "HSptQN3h": {
     "name": "Meow - Smart VPN",
     "url": "https://testflight.apple.com/join/HSptQN3h"
-  },
-  "YjeGMQBA": {
-    "name": "Orca IDE",
-    "url": "https://testflight.apple.com/join/YjeGMQBA"
   },
   "TnB7zcye": {
     "name": "FlipTalk - Reverse Your Speech",
