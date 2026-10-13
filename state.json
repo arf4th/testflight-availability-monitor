@@ -51,10 +51,6 @@
     "name": "F1ATV",
     "url": "https://testflight.apple.com/join/NRswe1IZ"
   },
-  "C1a3MRG4": {
-    "name": "Facebook",
-    "url": "https://testflight.apple.com/join/C1a3MRG4"
-  },
   "03ER1aUo": {
     "name": "Feedly",
     "url": "https://testflight.apple.com/join/03ER1aUo"
@@ -82,10 +78,6 @@
   "kzVJhIg1": {
     "name": "FRITZ!App Smart Home",
     "url": "https://testflight.apple.com/join/kzVJhIg1"
-  },
-  "vbfCKamq": {
-    "name": "FRITZ!App WLAN",
-    "url": "https://testflight.apple.com/join/vbfCKamq"
   },
   "bZIZeB4N": {
     "name": "Fugl",
@@ -283,10 +275,6 @@
     "name": "Unicode Keyboard",
     "url": "https://testflight.apple.com/join/YKH3kGpt"
   },
-  "l72L1OK3": {
-    "name": "waipu.tv",
-    "url": "https://testflight.apple.com/join/l72L1OK3"
-  },
   "Z0AU0KXC": {
     "name": "Wikipedia",
     "url": "https://testflight.apple.com/join/Z0AU0KXC"
@@ -299,6 +287,10 @@
     "name": "World Clock Time Widget",
     "url": "https://testflight.apple.com/join/8wa9T053"
   },
+  "dfUeaFHS": {
+    "name": "Xbox",
+    "url": "https://testflight.apple.com/join/dfUeaFHS"
+  },
   "5zhB7sRP": {
     "name": "YACReader",
     "url": "https://testflight.apple.com/join/5zhB7sRP"
@@ -307,9 +299,9 @@
     "name": "PushUp Workout Daily at Home",
     "url": "https://testflight.apple.com/join/myFEz6DW"
   },
-  "H82FVVt6": {
-    "name": "CardioBot - Heart Rate Monitor",
-    "url": "https://testflight.apple.com/join/H82FVVt6"
+  "1SyedSId": {
+    "name": "Spotify - Music and Podcasts",
+    "url": "https://testflight.apple.com/join/1SyedSId"
   },
   "KwboYTNt": {
     "name": "S1 Mufu",
@@ -334,6 +326,10 @@
   "ixRrWfQL": {
     "name": "feeeed",
     "url": "https://testflight.apple.com/join/ixRrWfQL"
+  },
+  "8BOPXsGz": {
+    "name": "Steam iOS beta",
+    "url": "https://testflight.apple.com/join/8BOPXsGz"
   },
   "tmKoQL3t": {
     "name": "iRime输入法-小鹤双拼五笔郑码输入法 beta",
@@ -875,6 +871,10 @@
     "name": "TikTok -Global Video Community",
     "url": "https://testflight.apple.com/join/K28iQVlZ"
   },
+  "TH2TrW13": {
+    "name": "TikTok -Global Video Community",
+    "url": "https://testflight.apple.com/join/TH2TrW13"
+  },
   "SqNPfdxq": {
     "name": "Swiftfin",
     "url": "https://testflight.apple.com/join/SqNPfdxq"
@@ -919,10 +919,6 @@
     "name": "Slips - Quick Notes",
     "url": "https://testflight.apple.com/join/9QGyahYr"
   },
-  "tLcYLZJV": {
-    "name": "Tailscale",
-    "url": "https://testflight.apple.com/join/tLcYLZJV"
-  },
   "vrehhvsY": {
     "name": "WatchAmp for Plex",
     "url": "https://testflight.apple.com/join/vrehhvsY"
@@ -954,10 +950,6 @@
   "zBH718yX": {
     "name": "Airtxt",
     "url": "https://testflight.apple.com/join/zBH718yX"
-  },
-  "EGSsGRn7": {
-    "name": "CoMaps",
-    "url": "https://testflight.apple.com/join/EGSsGRn7"
   },
   "MJYg86PA": {
     "name": "WhoWhom",
@@ -1139,6 +1131,10 @@
     "name": "Spektra IPTV Player",
     "url": "https://testflight.apple.com/join/27Ers3Td"
   },
+  "QEGVeTvn": {
+    "name": "Cerebri",
+    "url": "https://testflight.apple.com/join/QEGVeTvn"
+  },
   "52QAEXp5": {
     "name": "Ferry : RSS Reader",
     "url": "https://testflight.apple.com/join/52QAEXp5"
@@ -1314,5 +1310,9 @@
   "g86ZVmQN": {
     "name": "HEATWAVE - The battle for cold",
     "url": "https://testflight.apple.com/join/g86ZVmQN"
+  },
+  "EnFsKYQ1": {
+    "name": "OpenCode",
+    "url": "https://testflight.apple.com/join/EnFsKYQ1"
   }
 }
