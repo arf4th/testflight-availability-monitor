@@ -51,6 +51,10 @@
     "name": "F1ATV",
     "url": "https://testflight.apple.com/join/NRswe1IZ"
   },
+  "njVWbUm0": {
+    "name": "Facebook Messenger",
+    "url": "https://testflight.apple.com/join/njVWbUm0"
+  },
   "03ER1aUo": {
     "name": "Feedly",
     "url": "https://testflight.apple.com/join/03ER1aUo"
@@ -78,6 +82,10 @@
   "kzVJhIg1": {
     "name": "FRITZ!App Smart Home",
     "url": "https://testflight.apple.com/join/kzVJhIg1"
+  },
+  "vbfCKamq": {
+    "name": "FRITZ!App WLAN",
+    "url": "https://testflight.apple.com/join/vbfCKamq"
   },
   "bZIZeB4N": {
     "name": "Fugl",
@@ -287,10 +295,6 @@
     "name": "World Clock Time Widget",
     "url": "https://testflight.apple.com/join/8wa9T053"
   },
-  "dfUeaFHS": {
-    "name": "Xbox",
-    "url": "https://testflight.apple.com/join/dfUeaFHS"
-  },
   "5zhB7sRP": {
     "name": "YACReader",
     "url": "https://testflight.apple.com/join/5zhB7sRP"
@@ -298,10 +302,6 @@
   "myFEz6DW": {
     "name": "PushUp Workout Daily at Home",
     "url": "https://testflight.apple.com/join/myFEz6DW"
-  },
-  "1SyedSId": {
-    "name": "Spotify - Music and Podcasts",
-    "url": "https://testflight.apple.com/join/1SyedSId"
   },
   "KwboYTNt": {
     "name": "S1 Mufu",
@@ -326,10 +326,6 @@
   "ixRrWfQL": {
     "name": "feeeed",
     "url": "https://testflight.apple.com/join/ixRrWfQL"
-  },
-  "8BOPXsGz": {
-    "name": "Steam iOS beta",
-    "url": "https://testflight.apple.com/join/8BOPXsGz"
   },
   "tmKoQL3t": {
     "name": "iRime输入法-小鹤双拼五笔郑码输入法 beta",
@@ -398,6 +394,10 @@
   "KNyadcIZ": {
     "name": "Microsoft Loop beta",
     "url": "https://testflight.apple.com/join/KNyadcIZ"
+  },
+  "8oUnDzMQ": {
+    "name": "Xbox Family Settings beta",
+    "url": "https://testflight.apple.com/join/8oUnDzMQ"
   },
   "QvKyRJ8x": {
     "name": "Meditation Timer Zenzitizer",
@@ -471,10 +471,6 @@
     "name": "Element X - Secure Chat & Call",
     "url": "https://testflight.apple.com/join/uZbeZCOi"
   },
-  "eO265vw7": {
-    "name": "Grindr - Gay Dating & Chat",
-    "url": "https://testflight.apple.com/join/eO265vw7"
-  },
   "2NZLBFyb": {
     "name": "Monzo Bank - Mobile Banking",
     "url": "https://testflight.apple.com/join/2NZLBFyb"
@@ -547,6 +543,10 @@
     "name": "滴答清单 TickTick",
     "url": "https://testflight.apple.com/join/vWQPDFQU"
   },
+  "TX83Mn7J": {
+    "name": "知乎",
+    "url": "https://testflight.apple.com/join/TX83Mn7J"
+  },
   "grxohdR3": {
     "name": "事线 - 串事成线",
     "url": "https://testflight.apple.com/join/grxohdR3"
@@ -566,10 +566,6 @@
   "ZILJgZhU": {
     "name": "抖音",
     "url": "https://testflight.apple.com/join/ZILJgZhU"
-  },
-  "Rfr1mzqS": {
-    "name": "红果短剧 - 海量热门短剧随心看",
-    "url": "https://testflight.apple.com/join/Rfr1mzqS"
   },
   "mAE3jS7i": {
     "name": "豆包",
@@ -1131,10 +1127,6 @@
     "name": "Spektra IPTV Player",
     "url": "https://testflight.apple.com/join/27Ers3Td"
   },
-  "QEGVeTvn": {
-    "name": "Cerebri",
-    "url": "https://testflight.apple.com/join/QEGVeTvn"
-  },
   "52QAEXp5": {
     "name": "Ferry : RSS Reader",
     "url": "https://testflight.apple.com/join/52QAEXp5"
@@ -1318,5 +1310,9 @@
   "TBxWaPBr": {
     "name": "Spohad",
     "url": "https://testflight.apple.com/join/TBxWaPBr"
+  },
+  "vfgnaKC1": {
+    "name": "NetCheck Relay",
+    "url": "https://testflight.apple.com/join/vfgnaKC1"
   }
 }
