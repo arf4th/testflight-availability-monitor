@@ -27,10 +27,6 @@
     "name": "Buffer: Social Media Manager",
     "url": "https://testflight.apple.com/join/DOpMcusn"
   },
-  "E7AnyPlA": {
-    "name": "Cheatsheet",
-    "url": "https://testflight.apple.com/join/E7AnyPlA"
-  },
   "TEnBWi68": {
     "name": "Collabora Office",
     "url": "https://testflight.apple.com/join/TEnBWi68"
@@ -131,10 +127,6 @@
     "name": "IMDb: Movies & TV Shows",
     "url": "https://testflight.apple.com/join/Y9yo0X5t"
   },
-  "97i7KM8O": {
-    "name": "iSH Shell",
-    "url": "https://testflight.apple.com/join/97i7KM8O"
-  },
   "2lm7vHBS": {
     "name": "Jira Cloud by Atlassian",
     "url": "https://testflight.apple.com/join/2lm7vHBS"
@@ -170,10 +162,6 @@
   "79Azm1hZ": {
     "name": "Mindustry",
     "url": "https://testflight.apple.com/join/79Azm1hZ"
-  },
-  "lsd9mugy": {
-    "name": "Mixing Station",
-    "url": "https://testflight.apple.com/join/lsd9mugy"
   },
   "U0v1rBE5": {
     "name": "MyFRITZ!App",
@@ -278,10 +266,6 @@
   "OqYBblCA": {
     "name": "Streaks Workout",
     "url": "https://testflight.apple.com/join/OqYBblCA"
-  },
-  "eP0BTwVi": {
-    "name": "Television Time",
-    "url": "https://testflight.apple.com/join/eP0BTwVi"
   },
   "MnuClabg": {
     "name": "Termius – SSH client",
@@ -411,14 +395,6 @@
     "name": "Readwise Reader beta",
     "url": "https://testflight.apple.com/join/NSeQo22d"
   },
-  "KNyadcIZ": {
-    "name": "Microsoft Loop beta",
-    "url": "https://testflight.apple.com/join/KNyadcIZ"
-  },
-  "8oUnDzMQ": {
-    "name": "Xbox Family Settings beta",
-    "url": "https://testflight.apple.com/join/8oUnDzMQ"
-  },
   "QvKyRJ8x": {
     "name": "Meditation Timer Zenzitizer",
     "url": "https://testflight.apple.com/join/QvKyRJ8x"
@@ -491,10 +467,6 @@
     "name": "Element X - Secure Chat & Call",
     "url": "https://testflight.apple.com/join/uZbeZCOi"
   },
-  "eO265vw7": {
-    "name": "Grindr - Gay Dating & Chat",
-    "url": "https://testflight.apple.com/join/eO265vw7"
-  },
   "2NZLBFyb": {
     "name": "Monzo Bank - Mobile Banking",
     "url": "https://testflight.apple.com/join/2NZLBFyb"
@@ -542,10 +514,6 @@
   "lLLlgHpB": {
     "name": "Monal - XMPP Chat",
     "url": "https://testflight.apple.com/join/lLLlgHpB"
-  },
-  "vkLIflUJ": {
-    "name": "Windows App Mobile",
-    "url": "https://testflight.apple.com/join/vkLIflUJ"
   },
   "uDgoqfGS": {
     "name": "Microsoft OneNote",
@@ -671,6 +639,10 @@
     "name": "豆瓣阅读",
     "url": "https://testflight.apple.com/join/Bh2Bo9ab"
   },
+  "wUz8czx3": {
+    "name": "豆包输入法",
+    "url": "https://testflight.apple.com/join/wUz8czx3"
+  },
   "T1JruCw4": {
     "name": "SpotiCar",
     "url": "https://testflight.apple.com/join/T1JruCw4"
@@ -686,14 +658,6 @@
   "2xC6J4zN": {
     "name": "TP-Link Deco",
     "url": "https://testflight.apple.com/join/2xC6J4zN"
-  },
-  "qCCdSLT1": {
-    "name": "PCalc",
-    "url": "https://testflight.apple.com/join/qCCdSLT1"
-  },
-  "dsNjHxjb": {
-    "name": "Hiddify Proxy &amp; VPN",
-    "url": "https://testflight.apple.com/join/dsNjHxjb"
   },
   "eUpweBZV": {
     "name": "CodeAgents Mobile",
@@ -827,21 +791,9 @@
     "name": "Tally • Quick Counter",
     "url": "https://testflight.apple.com/join/zbUiqcxg"
   },
-  "VNDGcHBB": {
-    "name": "淘宝闪购-点外卖更优惠",
-    "url": "https://testflight.apple.com/join/VNDGcHBB"
-  },
   "7tPfWALw": {
     "name": "腾讯自选股-在线炒股票证券交易",
     "url": "https://testflight.apple.com/join/7tPfWALw"
-  },
-  "i6TcrR2L": {
-    "name": "腾讯地图-AI路线规划,导航公交打车地铁出行",
-    "url": "https://testflight.apple.com/join/i6TcrR2L"
-  },
-  "N1MkckuA": {
-    "name": "腾讯地图-AI路线规划,导航公交打车地铁出行",
-    "url": "https://testflight.apple.com/join/N1MkckuA"
   },
   "nRiAaxNf": {
     "name": "翼支付",
@@ -1362,5 +1314,13 @@
   "mWfCau5D": {
     "name": "Larari",
     "url": "https://testflight.apple.com/join/mWfCau5D"
+  },
+  "GK8ht2vv": {
+    "name": "这图能改",
+    "url": "https://testflight.apple.com/join/GK8ht2vv"
+  },
+  "wZcGdJar": {
+    "name": "Generator Tracker: Run Hours",
+    "url": "https://testflight.apple.com/join/wZcGdJar"
   }
 }
