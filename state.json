@@ -99,10 +99,6 @@
     "name": "Google Chrome",
     "url": "https://testflight.apple.com/join/LPQmtkUs"
   },
-  "v29eXz9t": {
-    "name": "Grocery-Smart Grocery List",
-    "url": "https://testflight.apple.com/join/v29eXz9t"
-  },
   "6CcTotfX": {
     "name": "GroupMe",
     "url": "https://testflight.apple.com/join/6CcTotfX"
@@ -154,6 +150,10 @@
   "eHAKJBtM": {
     "name": "Microsoft Office",
     "url": "https://testflight.apple.com/join/eHAKJBtM"
+  },
+  "LtgPLzrQ": {
+    "name": "Microsoft OneDrive",
+    "url": "https://testflight.apple.com/join/LtgPLzrQ"
   },
   "JSq3UkAz": {
     "name": "Microsoft To-Do",
@@ -251,10 +251,6 @@
     "name": "Sleep Cycle alarm clock",
     "url": "https://testflight.apple.com/join/8RcEFqFF"
   },
-  "p7hGbZUR": {
-    "name": "Snapchat",
-    "url": "https://testflight.apple.com/join/p7hGbZUR"
-  },
   "O2wj7i0x": {
     "name": "Spark Mail - Email by Readdle",
     "url": "https://testflight.apple.com/join/O2wj7i0x"
@@ -263,9 +259,17 @@
     "name": "Spendee Budget Money Tracker",
     "url": "https://testflight.apple.com/join/qsfCtbEy"
   },
+  "7lt2tesn": {
+    "name": "Spotify: Music and Podcasts",
+    "url": "https://testflight.apple.com/join/7lt2tesn"
+  },
   "OqYBblCA": {
     "name": "Streaks Workout",
     "url": "https://testflight.apple.com/join/OqYBblCA"
+  },
+  "eP0BTwVi": {
+    "name": "Television Time",
+    "url": "https://testflight.apple.com/join/eP0BTwVi"
   },
   "MnuClabg": {
     "name": "Termius – SSH client",
@@ -307,6 +311,10 @@
     "name": "PushUp Workout Daily at Home",
     "url": "https://testflight.apple.com/join/myFEz6DW"
   },
+  "1SyedSId": {
+    "name": "Spotify - Music and Podcasts",
+    "url": "https://testflight.apple.com/join/1SyedSId"
+  },
   "KwboYTNt": {
     "name": "S1 Mufu",
     "url": "https://testflight.apple.com/join/KwboYTNt"
@@ -338,6 +346,10 @@
   "tCeANbZi": {
     "name": "Sleep Cycle - Sleep Tracker beta",
     "url": "https://testflight.apple.com/join/tCeANbZi"
+  },
+  "gPYINGCJ": {
+    "name": "Keka",
+    "url": "https://testflight.apple.com/join/gPYINGCJ"
   },
   "FT9n1ncG": {
     "name": "SweeLOL",
@@ -395,6 +407,10 @@
     "name": "Readwise Reader beta",
     "url": "https://testflight.apple.com/join/NSeQo22d"
   },
+  "KNyadcIZ": {
+    "name": "Microsoft Loop beta",
+    "url": "https://testflight.apple.com/join/KNyadcIZ"
+  },
   "QvKyRJ8x": {
     "name": "Meditation Timer Zenzitizer",
     "url": "https://testflight.apple.com/join/QvKyRJ8x"
@@ -406,6 +422,10 @@
   "TL68k0Sp": {
     "name": "CharMap",
     "url": "https://testflight.apple.com/join/TL68k0Sp"
+  },
+  "9JaSzwSN": {
+    "name": "腾讯视频HD",
+    "url": "https://testflight.apple.com/join/9JaSzwSN"
   },
   "mFlnyMv3": {
     "name": "UTM Remote Virtual Machines",
@@ -466,6 +486,10 @@
   "uZbeZCOi": {
     "name": "Element X - Secure Chat & Call",
     "url": "https://testflight.apple.com/join/uZbeZCOi"
+  },
+  "eO265vw7": {
+    "name": "Grindr - Gay Dating & Chat",
+    "url": "https://testflight.apple.com/join/eO265vw7"
   },
   "2NZLBFyb": {
     "name": "Monzo Bank - Mobile Banking",
@@ -539,6 +563,10 @@
     "name": "滴答清单 TickTick",
     "url": "https://testflight.apple.com/join/vWQPDFQU"
   },
+  "mOxZm1dD": {
+    "name": "我的世界-网易",
+    "url": "https://testflight.apple.com/join/mOxZm1dD"
+  },
   "grxohdR3": {
     "name": "事线 - 串事成线",
     "url": "https://testflight.apple.com/join/grxohdR3"
@@ -558,6 +586,10 @@
   "ZILJgZhU": {
     "name": "抖音",
     "url": "https://testflight.apple.com/join/ZILJgZhU"
+  },
+  "Rfr1mzqS": {
+    "name": "红果短剧 - 海量热门短剧随心看",
+    "url": "https://testflight.apple.com/join/Rfr1mzqS"
   },
   "mAE3jS7i": {
     "name": "豆包",
@@ -638,10 +670,6 @@
   "Bh2Bo9ab": {
     "name": "豆瓣阅读",
     "url": "https://testflight.apple.com/join/Bh2Bo9ab"
-  },
-  "wUz8czx3": {
-    "name": "豆包输入法",
-    "url": "https://testflight.apple.com/join/wUz8czx3"
   },
   "T1JruCw4": {
     "name": "SpotiCar",
