@@ -79,10 +79,6 @@
     "name": "FRITZ!App Smart Home",
     "url": "https://testflight.apple.com/join/kzVJhIg1"
   },
-  "vbfCKamq": {
-    "name": "FRITZ!App WLAN",
-    "url": "https://testflight.apple.com/join/vbfCKamq"
-  },
   "bZIZeB4N": {
     "name": "Fugl",
     "url": "https://testflight.apple.com/join/bZIZeB4N"
@@ -131,6 +127,10 @@
     "name": "IMDb: Movies & TV Shows",
     "url": "https://testflight.apple.com/join/Y9yo0X5t"
   },
+  "97i7KM8O": {
+    "name": "iSH Shell",
+    "url": "https://testflight.apple.com/join/97i7KM8O"
+  },
   "2lm7vHBS": {
     "name": "Jira Cloud by Atlassian",
     "url": "https://testflight.apple.com/join/2lm7vHBS"
@@ -151,13 +151,13 @@
     "name": "Microsoft Authenticator",
     "url": "https://testflight.apple.com/join/Coqmmppd"
   },
-  "JkU2rh21": {
-    "name": "Microsoft Edge",
-    "url": "https://testflight.apple.com/join/JkU2rh21"
-  },
   "eHAKJBtM": {
     "name": "Microsoft Office",
     "url": "https://testflight.apple.com/join/eHAKJBtM"
+  },
+  "yhIhAvjp": {
+    "name": "Microsoft SwiftKey Keyboard",
+    "url": "https://testflight.apple.com/join/yhIhAvjp"
   },
   "JSq3UkAz": {
     "name": "Microsoft To-Do",
@@ -222,10 +222,6 @@
   "Kts3HqEj": {
     "name": "Pyto-Python IDE",
     "url": "https://testflight.apple.com/join/Kts3HqEj"
-  },
-  "VCIvwk2g": {
-    "name": "Quantumult X",
-    "url": "https://testflight.apple.com/join/VCIvwk2g"
   },
   "OZ1B4sTS": {
     "name": "RainViewer: Live Weather Radar",
@@ -526,10 +522,6 @@
   "lLLlgHpB": {
     "name": "Monal - XMPP Chat",
     "url": "https://testflight.apple.com/join/lLLlgHpB"
-  },
-  "vkLIflUJ": {
-    "name": "Windows App Mobile",
-    "url": "https://testflight.apple.com/join/vkLIflUJ"
   },
   "uDgoqfGS": {
     "name": "Microsoft OneNote",
@@ -859,17 +851,9 @@
     "name": "TikTok -Global Video Community",
     "url": "https://testflight.apple.com/join/K28iQVlZ"
   },
-  "TH2TrW13": {
-    "name": "TikTok -Global Video Community",
-    "url": "https://testflight.apple.com/join/TH2TrW13"
-  },
   "SqNPfdxq": {
     "name": "Swiftfin",
     "url": "https://testflight.apple.com/join/SqNPfdxq"
-  },
-  "rqvYCYOp": {
-    "name": "Microsoft Edge",
-    "url": "https://testflight.apple.com/join/rqvYCYOp"
   },
   "BkXvMy3S": {
     "name": "My Vinyl+ Scanner for Discogs",
@@ -934,10 +918,6 @@
   "zBH718yX": {
     "name": "Airtxt",
     "url": "https://testflight.apple.com/join/zBH718yX"
-  },
-  "EGSsGRn7": {
-    "name": "CoMaps",
-    "url": "https://testflight.apple.com/join/EGSsGRn7"
   },
   "MJYg86PA": {
     "name": "WhoWhom",
@@ -1170,6 +1150,10 @@
   "47XmGuKU": {
     "name": "Theta Wellness",
     "url": "https://testflight.apple.com/join/47XmGuKU"
+  },
+  "Dtc4ZCFu": {
+    "name": "Accretion: The Vein",
+    "url": "https://testflight.apple.com/join/Dtc4ZCFu"
   },
   "haKP2pHC": {
     "name": "Spring Beta for Twitter",
