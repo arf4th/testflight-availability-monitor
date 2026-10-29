@@ -23,10 +23,6 @@
     "name": "AnyList",
     "url": "https://testflight.apple.com/join/xwvLPc6o"
   },
-  "Trcbh1o3": {
-    "name": "Brave",
-    "url": "https://testflight.apple.com/join/Trcbh1o3"
-  },
   "DOpMcusn": {
     "name": "Buffer: Social Media Manager",
     "url": "https://testflight.apple.com/join/DOpMcusn"
@@ -59,10 +55,6 @@
     "name": "Facebook Messenger",
     "url": "https://testflight.apple.com/join/njVWbUm0"
   },
-  "xsSlT2sX": {
-    "name": "FE File Explorer Pro",
-    "url": "https://testflight.apple.com/join/xsSlT2sX"
-  },
   "03ER1aUo": {
     "name": "Feedly",
     "url": "https://testflight.apple.com/join/03ER1aUo"
@@ -90,10 +82,6 @@
   "kzVJhIg1": {
     "name": "FRITZ!App Smart Home",
     "url": "https://testflight.apple.com/join/kzVJhIg1"
-  },
-  "vbfCKamq": {
-    "name": "FRITZ!App WLAN",
-    "url": "https://testflight.apple.com/join/vbfCKamq"
   },
   "bZIZeB4N": {
     "name": "Fugl",
@@ -159,9 +147,17 @@
     "name": "Microsoft Authenticator",
     "url": "https://testflight.apple.com/join/Coqmmppd"
   },
+  "JkU2rh21": {
+    "name": "Microsoft Edge",
+    "url": "https://testflight.apple.com/join/JkU2rh21"
+  },
   "eHAKJBtM": {
     "name": "Microsoft Office",
     "url": "https://testflight.apple.com/join/eHAKJBtM"
+  },
+  "LtgPLzrQ": {
+    "name": "Microsoft OneDrive",
+    "url": "https://testflight.apple.com/join/LtgPLzrQ"
   },
   "JSq3UkAz": {
     "name": "Microsoft To-Do",
@@ -267,6 +263,10 @@
     "name": "Spendee Budget Money Tracker",
     "url": "https://testflight.apple.com/join/qsfCtbEy"
   },
+  "7lt2tesn": {
+    "name": "Spotify: Music and Podcasts",
+    "url": "https://testflight.apple.com/join/7lt2tesn"
+  },
   "OqYBblCA": {
     "name": "Streaks Workout",
     "url": "https://testflight.apple.com/join/OqYBblCA"
@@ -343,10 +343,6 @@
     "name": "iRime输入法-小鹤双拼五笔郑码输入法 beta",
     "url": "https://testflight.apple.com/join/tmKoQL3t"
   },
-  "clHxFnLa": {
-    "name": "Lock Launcher beta",
-    "url": "https://testflight.apple.com/join/clHxFnLa"
-  },
   "tCeANbZi": {
     "name": "Sleep Cycle - Sleep Tracker beta",
     "url": "https://testflight.apple.com/join/tCeANbZi"
@@ -410,10 +406,6 @@
   "NSeQo22d": {
     "name": "Readwise Reader beta",
     "url": "https://testflight.apple.com/join/NSeQo22d"
-  },
-  "KNyadcIZ": {
-    "name": "Microsoft Loop beta",
-    "url": "https://testflight.apple.com/join/KNyadcIZ"
   },
   "QvKyRJ8x": {
     "name": "Meditation Timer Zenzitizer",
@@ -487,10 +479,6 @@
     "name": "Element X - Secure Chat & Call",
     "url": "https://testflight.apple.com/join/uZbeZCOi"
   },
-  "eO265vw7": {
-    "name": "Grindr - Gay Dating & Chat",
-    "url": "https://testflight.apple.com/join/eO265vw7"
-  },
   "2NZLBFyb": {
     "name": "Monzo Bank - Mobile Banking",
     "url": "https://testflight.apple.com/join/2NZLBFyb"
@@ -538,10 +526,6 @@
   "lLLlgHpB": {
     "name": "Monal - XMPP Chat",
     "url": "https://testflight.apple.com/join/lLLlgHpB"
-  },
-  "vkLIflUJ": {
-    "name": "Windows App Mobile",
-    "url": "https://testflight.apple.com/join/vkLIflUJ"
   },
   "uDgoqfGS": {
     "name": "Microsoft OneNote",
@@ -851,10 +835,6 @@
     "name": "得物 - 得到美好事物",
     "url": "https://testflight.apple.com/join/jDWeCxGu"
   },
-  "XkGKTA71": {
-    "name": "小红书 – 世界杯直播",
-    "url": "https://testflight.apple.com/join/XkGKTA71"
-  },
   "wAYQpuS6": {
     "name": "唱吧",
     "url": "https://testflight.apple.com/join/wAYQpuS6"
@@ -882,6 +862,10 @@
   "SqNPfdxq": {
     "name": "Swiftfin",
     "url": "https://testflight.apple.com/join/SqNPfdxq"
+  },
+  "rqvYCYOp": {
+    "name": "Microsoft Edge",
+    "url": "https://testflight.apple.com/join/rqvYCYOp"
   },
   "BkXvMy3S": {
     "name": "My Vinyl+ Scanner for Discogs",
