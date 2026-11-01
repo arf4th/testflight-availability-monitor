@@ -83,6 +83,10 @@
     "name": "FRITZ!App Smart Home",
     "url": "https://testflight.apple.com/join/kzVJhIg1"
   },
+  "vbfCKamq": {
+    "name": "FRITZ!App WLAN",
+    "url": "https://testflight.apple.com/join/vbfCKamq"
+  },
   "bZIZeB4N": {
     "name": "Fugl",
     "url": "https://testflight.apple.com/join/bZIZeB4N"
@@ -391,10 +395,6 @@
     "name": "Readwise Reader beta",
     "url": "https://testflight.apple.com/join/NSeQo22d"
   },
-  "8oUnDzMQ": {
-    "name": "Xbox Family Settings beta",
-    "url": "https://testflight.apple.com/join/8oUnDzMQ"
-  },
   "QvKyRJ8x": {
     "name": "Meditation Timer Zenzitizer",
     "url": "https://testflight.apple.com/join/QvKyRJ8x"
@@ -523,10 +523,6 @@
     "name": "Star Wander - AR Night Sky Map",
     "url": "https://testflight.apple.com/join/5hmQk6ba"
   },
-  "qC1ZnReJ": {
-    "name": "Minecraft Preview",
-    "url": "https://testflight.apple.com/join/qC1ZnReJ"
-  },
   "RD9jGH9S": {
     "name": "Cell to Singularity",
     "url": "https://testflight.apple.com/join/RD9jGH9S"
@@ -542,10 +538,6 @@
   "vWQPDFQU": {
     "name": "滴答清单 TickTick",
     "url": "https://testflight.apple.com/join/vWQPDFQU"
-  },
-  "mOxZm1dD": {
-    "name": "我的世界-网易",
-    "url": "https://testflight.apple.com/join/mOxZm1dD"
   },
   "grxohdR3": {
     "name": "事线 - 串事成线",
@@ -662,6 +654,10 @@
   "2xC6J4zN": {
     "name": "TP-Link Deco",
     "url": "https://testflight.apple.com/join/2xC6J4zN"
+  },
+  "dsNjHxjb": {
+    "name": "Hiddify Proxy &amp; VPN",
+    "url": "https://testflight.apple.com/join/dsNjHxjb"
   },
   "eUpweBZV": {
     "name": "CodeAgents Mobile",
@@ -970,10 +966,6 @@
   "HSptQN3h": {
     "name": "Meow - Smart VPN",
     "url": "https://testflight.apple.com/join/HSptQN3h"
-  },
-  "YjeGMQBA": {
-    "name": "Orca IDE",
-    "url": "https://testflight.apple.com/join/YjeGMQBA"
   },
   "TnB7zcye": {
     "name": "FlipTalk - Reverse Your Speech",
