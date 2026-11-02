@@ -83,10 +83,6 @@
     "name": "FRITZ!App Smart Home",
     "url": "https://testflight.apple.com/join/kzVJhIg1"
   },
-  "vbfCKamq": {
-    "name": "FRITZ!App WLAN",
-    "url": "https://testflight.apple.com/join/vbfCKamq"
-  },
   "bZIZeB4N": {
     "name": "Fugl",
     "url": "https://testflight.apple.com/join/bZIZeB4N"
@@ -155,6 +151,10 @@
     "name": "Microsoft Office",
     "url": "https://testflight.apple.com/join/eHAKJBtM"
   },
+  "LtgPLzrQ": {
+    "name": "Microsoft OneDrive",
+    "url": "https://testflight.apple.com/join/LtgPLzrQ"
+  },
   "JSq3UkAz": {
     "name": "Microsoft To-Do",
     "url": "https://testflight.apple.com/join/JSq3UkAz"
@@ -206,6 +206,10 @@
   "fQQrtZMS": {
     "name": "Pigeon",
     "url": "https://testflight.apple.com/join/fQQrtZMS"
+  },
+  "MY6JTzix": {
+    "name": "Plex",
+    "url": "https://testflight.apple.com/join/MY6JTzix"
   },
   "NkF46PRd": {
     "name": "Potatso",
@@ -259,6 +263,10 @@
     "name": "Spendee Budget Money Tracker",
     "url": "https://testflight.apple.com/join/qsfCtbEy"
   },
+  "7lt2tesn": {
+    "name": "Spotify: Music and Podcasts",
+    "url": "https://testflight.apple.com/join/7lt2tesn"
+  },
   "OqYBblCA": {
     "name": "Streaks Workout",
     "url": "https://testflight.apple.com/join/OqYBblCA"
@@ -283,6 +291,10 @@
     "name": "Unicode Keyboard",
     "url": "https://testflight.apple.com/join/YKH3kGpt"
   },
+  "l72L1OK3": {
+    "name": "waipu.tv",
+    "url": "https://testflight.apple.com/join/l72L1OK3"
+  },
   "Z0AU0KXC": {
     "name": "Wikipedia",
     "url": "https://testflight.apple.com/join/Z0AU0KXC"
@@ -302,6 +314,14 @@
   "myFEz6DW": {
     "name": "PushUp Workout Daily at Home",
     "url": "https://testflight.apple.com/join/myFEz6DW"
+  },
+  "H82FVVt6": {
+    "name": "CardioBot - Heart Rate Monitor",
+    "url": "https://testflight.apple.com/join/H82FVVt6"
+  },
+  "1SyedSId": {
+    "name": "Spotify - Music and Podcasts",
+    "url": "https://testflight.apple.com/join/1SyedSId"
   },
   "KwboYTNt": {
     "name": "S1 Mufu",
@@ -395,6 +415,10 @@
     "name": "Readwise Reader beta",
     "url": "https://testflight.apple.com/join/NSeQo22d"
   },
+  "KNyadcIZ": {
+    "name": "Microsoft Loop beta",
+    "url": "https://testflight.apple.com/join/KNyadcIZ"
+  },
   "QvKyRJ8x": {
     "name": "Meditation Timer Zenzitizer",
     "url": "https://testflight.apple.com/join/QvKyRJ8x"
@@ -406,6 +430,10 @@
   "TL68k0Sp": {
     "name": "CharMap",
     "url": "https://testflight.apple.com/join/TL68k0Sp"
+  },
+  "9JaSzwSN": {
+    "name": "腾讯视频HD",
+    "url": "https://testflight.apple.com/join/9JaSzwSN"
   },
   "mFlnyMv3": {
     "name": "UTM Remote Virtual Machines",
@@ -515,6 +543,14 @@
     "name": "Monal - XMPP Chat",
     "url": "https://testflight.apple.com/join/lLLlgHpB"
   },
+  "vkLIflUJ": {
+    "name": "Windows App Mobile",
+    "url": "https://testflight.apple.com/join/vkLIflUJ"
+  },
+  "3lIiz1eZ": {
+    "name": "Microsoft Excel",
+    "url": "https://testflight.apple.com/join/3lIiz1eZ"
+  },
   "uDgoqfGS": {
     "name": "Microsoft OneNote",
     "url": "https://testflight.apple.com/join/uDgoqfGS"
@@ -538,6 +574,10 @@
   "vWQPDFQU": {
     "name": "滴答清单 TickTick",
     "url": "https://testflight.apple.com/join/vWQPDFQU"
+  },
+  "mOxZm1dD": {
+    "name": "我的世界-网易",
+    "url": "https://testflight.apple.com/join/mOxZm1dD"
   },
   "grxohdR3": {
     "name": "事线 - 串事成线",
@@ -638,6 +678,10 @@
   "Bh2Bo9ab": {
     "name": "豆瓣阅读",
     "url": "https://testflight.apple.com/join/Bh2Bo9ab"
+  },
+  "wUz8czx3": {
+    "name": "豆包输入法",
+    "url": "https://testflight.apple.com/join/wUz8czx3"
   },
   "T1JruCw4": {
     "name": "SpotiCar",
@@ -967,6 +1011,10 @@
     "name": "Meow - Smart VPN",
     "url": "https://testflight.apple.com/join/HSptQN3h"
   },
+  "YjeGMQBA": {
+    "name": "Orca IDE",
+    "url": "https://testflight.apple.com/join/YjeGMQBA"
+  },
   "TnB7zcye": {
     "name": "FlipTalk - Reverse Your Speech",
     "url": "https://testflight.apple.com/join/TnB7zcye"
@@ -1090,10 +1138,6 @@
   "27Ers3Td": {
     "name": "Spektra IPTV Player",
     "url": "https://testflight.apple.com/join/27Ers3Td"
-  },
-  "52QAEXp5": {
-    "name": "Ferry : RSS Reader",
-    "url": "https://testflight.apple.com/join/52QAEXp5"
   },
   "UH3Cfhds": {
     "name": "Headroom: Self-Hosted Music",
