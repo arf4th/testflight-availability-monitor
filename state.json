@@ -55,6 +55,10 @@
     "name": "F1ATV",
     "url": "https://testflight.apple.com/join/NRswe1IZ"
   },
+  "C1a3MRG4": {
+    "name": "Facebook",
+    "url": "https://testflight.apple.com/join/C1a3MRG4"
+  },
   "njVWbUm0": {
     "name": "Facebook Messenger",
     "url": "https://testflight.apple.com/join/njVWbUm0"
@@ -86,10 +90,6 @@
   "kzVJhIg1": {
     "name": "FRITZ!App Smart Home",
     "url": "https://testflight.apple.com/join/kzVJhIg1"
-  },
-  "vbfCKamq": {
-    "name": "FRITZ!App WLAN",
-    "url": "https://testflight.apple.com/join/vbfCKamq"
   },
   "bZIZeB4N": {
     "name": "Fugl",
@@ -223,10 +223,6 @@
     "name": "Pyto-Python IDE",
     "url": "https://testflight.apple.com/join/Kts3HqEj"
   },
-  "mwhcPqxJ": {
-    "name": "Quizlet",
-    "url": "https://testflight.apple.com/join/mwhcPqxJ"
-  },
   "OZ1B4sTS": {
     "name": "RainViewer: Live Weather Radar",
     "url": "https://testflight.apple.com/join/OZ1B4sTS"
@@ -266,10 +262,6 @@
   "qsfCtbEy": {
     "name": "Spendee Budget Money Tracker",
     "url": "https://testflight.apple.com/join/qsfCtbEy"
-  },
-  "7lt2tesn": {
-    "name": "Spotify: Music and Podcasts",
-    "url": "https://testflight.apple.com/join/7lt2tesn"
   },
   "OqYBblCA": {
     "name": "Streaks Workout",
@@ -415,14 +407,6 @@
     "name": "Readwise Reader beta",
     "url": "https://testflight.apple.com/join/NSeQo22d"
   },
-  "KNyadcIZ": {
-    "name": "Microsoft Loop beta",
-    "url": "https://testflight.apple.com/join/KNyadcIZ"
-  },
-  "8oUnDzMQ": {
-    "name": "Xbox Family Settings beta",
-    "url": "https://testflight.apple.com/join/8oUnDzMQ"
-  },
   "QvKyRJ8x": {
     "name": "Meditation Timer Zenzitizer",
     "url": "https://testflight.apple.com/join/QvKyRJ8x"
@@ -543,6 +527,10 @@
     "name": "Monal - XMPP Chat",
     "url": "https://testflight.apple.com/join/lLLlgHpB"
   },
+  "vkLIflUJ": {
+    "name": "Windows App Mobile",
+    "url": "https://testflight.apple.com/join/vkLIflUJ"
+  },
   "uDgoqfGS": {
     "name": "Microsoft OneNote",
     "url": "https://testflight.apple.com/join/uDgoqfGS"
@@ -574,6 +562,10 @@
   "grxohdR3": {
     "name": "事线 - 串事成线",
     "url": "https://testflight.apple.com/join/grxohdR3"
+  },
+  "2LslNUOW": {
+    "name": "Weibo intl. beta",
+    "url": "https://testflight.apple.com/join/2LslNUOW"
   },
   "R5FNGUl3": {
     "name": "QQ beta",
@@ -699,6 +691,10 @@
     "name": "香肠派对(先行服)",
     "url": "https://testflight.apple.com/join/rEzEtRf2"
   },
+  "MnsYnB0s": {
+    "name": "TikTok -Global Video Community",
+    "url": "https://testflight.apple.com/join/MnsYnB0s"
+  },
   "gFZnVU2t": {
     "name": "钱迹记账-无广告自动记账软件 &amp; 预算 &amp; 资产管理",
     "url": "https://testflight.apple.com/join/gFZnVU2t"
@@ -818,6 +814,10 @@
   "zbUiqcxg": {
     "name": "Tally • Quick Counter",
     "url": "https://testflight.apple.com/join/zbUiqcxg"
+  },
+  "VNDGcHBB": {
+    "name": "淘宝闪购-点外卖更优惠",
+    "url": "https://testflight.apple.com/join/VNDGcHBB"
   },
   "7tPfWALw": {
     "name": "腾讯自选股-在线炒股票证券交易",
@@ -999,6 +999,10 @@
     "name": "Meow - Smart VPN",
     "url": "https://testflight.apple.com/join/HSptQN3h"
   },
+  "YjeGMQBA": {
+    "name": "Orca IDE",
+    "url": "https://testflight.apple.com/join/YjeGMQBA"
+  },
   "TnB7zcye": {
     "name": "FlipTalk - Reverse Your Speech",
     "url": "https://testflight.apple.com/join/TnB7zcye"
@@ -1167,13 +1171,13 @@
     "name": "drift - Offline Music Player",
     "url": "https://testflight.apple.com/join/7YVCwq1M"
   },
+  "9GTuC9Ri": {
+    "name": "微博",
+    "url": "https://testflight.apple.com/join/9GTuC9Ri"
+  },
   "47XmGuKU": {
     "name": "Theta Wellness",
     "url": "https://testflight.apple.com/join/47XmGuKU"
-  },
-  "Dtc4ZCFu": {
-    "name": "Accretion: The Vein",
-    "url": "https://testflight.apple.com/join/Dtc4ZCFu"
   },
   "haKP2pHC": {
     "name": "Spring Beta for Twitter",
