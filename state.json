@@ -7,10 +7,6 @@
     "name": "Salam",
     "url": "https://testflight.apple.com/join/IjXpQtAo"
   },
-  "fZRiD1zt": {
-    "name": "AdGuard VPN",
-    "url": "https://testflight.apple.com/join/fZRiD1zt"
-  },
   "wRiLlWPE": {
     "name": "Airmail - Your Mail With You",
     "url": "https://testflight.apple.com/join/wRiLlWPE"
@@ -23,13 +19,13 @@
     "name": "AnyList",
     "url": "https://testflight.apple.com/join/xwvLPc6o"
   },
+  "Trcbh1o3": {
+    "name": "Brave",
+    "url": "https://testflight.apple.com/join/Trcbh1o3"
+  },
   "DOpMcusn": {
     "name": "Buffer: Social Media Manager",
     "url": "https://testflight.apple.com/join/DOpMcusn"
-  },
-  "E7AnyPlA": {
-    "name": "Cheatsheet",
-    "url": "https://testflight.apple.com/join/E7AnyPlA"
   },
   "TEnBWi68": {
     "name": "Collabora Office",
@@ -102,10 +98,6 @@
   "T96F9wYq": {
     "name": "Go Map!!",
     "url": "https://testflight.apple.com/join/T96F9wYq"
-  },
-  "LPQmtkUs": {
-    "name": "Google Chrome",
-    "url": "https://testflight.apple.com/join/LPQmtkUs"
   },
   "v29eXz9t": {
     "name": "Grocery-Smart Grocery List",
@@ -351,10 +343,6 @@
     "name": "Readwise Reader beta",
     "url": "https://testflight.apple.com/join/NSeQo22d"
   },
-  "KNyadcIZ": {
-    "name": "Microsoft Loop beta",
-    "url": "https://testflight.apple.com/join/KNyadcIZ"
-  },
   "QvKyRJ8x": {
     "name": "Meditation Timer Zenzitizer",
     "url": "https://testflight.apple.com/join/QvKyRJ8x"
@@ -370,6 +358,10 @@
   "Vlb55Wtr": {
     "name": "Soulver 3",
     "url": "https://testflight.apple.com/join/Vlb55Wtr"
+  },
+  "QkU4VS1s": {
+    "name": "Microsoft Outlook",
+    "url": "https://testflight.apple.com/join/QkU4VS1s"
   },
   "b6GatWTY": {
     "name": "Fedicat",
@@ -418,10 +410,6 @@
   "uZbeZCOi": {
     "name": "Element X - Secure Chat & Call",
     "url": "https://testflight.apple.com/join/uZbeZCOi"
-  },
-  "eO265vw7": {
-    "name": "Grindr - Gay Dating & Chat",
-    "url": "https://testflight.apple.com/join/eO265vw7"
   },
   "2NZLBFyb": {
     "name": "Monzo Bank - Mobile Banking",
@@ -603,10 +591,6 @@
     "name": "香肠派对(先行服)",
     "url": "https://testflight.apple.com/join/rEzEtRf2"
   },
-  "MnsYnB0s": {
-    "name": "TikTok -Global Video Community",
-    "url": "https://testflight.apple.com/join/MnsYnB0s"
-  },
   "gFZnVU2t": {
     "name": "钱迹记账-无广告自动记账软件 &amp; 预算 &amp; 资产管理",
     "url": "https://testflight.apple.com/join/gFZnVU2t"
@@ -630,6 +614,10 @@
   "c6NtF2xP": {
     "name": "Moon FM - The Podcasts App",
     "url": "https://testflight.apple.com/join/c6NtF2xP"
+  },
+  "1AlPbnLZ": {
+    "name": "Home Assistant",
+    "url": "https://testflight.apple.com/join/1AlPbnLZ"
   },
   "mX1G5TQi": {
     "name": "Ellie - Daily Planner",
@@ -743,10 +731,6 @@
     "name": "TikTok -Global Video Community",
     "url": "https://testflight.apple.com/join/K28iQVlZ"
   },
-  "TH2TrW13": {
-    "name": "TikTok -Global Video Community",
-    "url": "https://testflight.apple.com/join/TH2TrW13"
-  },
   "SqNPfdxq": {
     "name": "Swiftfin",
     "url": "https://testflight.apple.com/join/SqNPfdxq"
@@ -782,10 +766,6 @@
   "zBH718yX": {
     "name": "Airtxt",
     "url": "https://testflight.apple.com/join/zBH718yX"
-  },
-  "EGSsGRn7": {
-    "name": "CoMaps",
-    "url": "https://testflight.apple.com/join/EGSsGRn7"
   },
   "MJYg86PA": {
     "name": "WhoWhom",
@@ -826,6 +806,10 @@
   "HSptQN3h": {
     "name": "Meow - Smart VPN",
     "url": "https://testflight.apple.com/join/HSptQN3h"
+  },
+  "YjeGMQBA": {
+    "name": "Orca IDE",
+    "url": "https://testflight.apple.com/join/YjeGMQBA"
   },
   "ypzb4Npw": {
     "name": "FaithVoice",
@@ -1182,5 +1166,9 @@
   "E5CPuP4X": {
     "name": "Mochi Pack: Packing List",
     "url": "https://testflight.apple.com/join/E5CPuP4X"
+  },
+  "QrKBvj5S": {
+    "name": "Mons: SSH &amp; Agent Terminal",
+    "url": "https://testflight.apple.com/join/QrKBvj5S"
   }
 }
